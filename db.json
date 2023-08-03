@@ -1,0 +1,244 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Thor",
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/201385/rs_634x1024-130905054150-634-ThorJane.jpg?fit=around%7C776:1254&output-quality=90&crop=776:1254;center,top",
+      "genre": "Action, Adenture, comedy",
+      "director": "Taika Waititi",
+      "stars": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",
+      "plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 2,
+      "title": "Wonder woman",
+      "genre": "Action, Adenture, Fantasy",
+      "director": "Patty Jenkins",
+      "stars": "Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",
+      "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F04%2Fwonder-woman-poster2-2000.jpg&q=60",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 3,
+      "title": "Logan",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/logan_584x800_9a5af33a.jpeg?region=0%2C0%2C584%2C800",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 4,
+      "title": "Despicable me 3",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+      "image": "https://images.moviesanywhere.com/44e16d9e2d0f8cdbdd1353dd1382e641/d99b2810-92cf-4fdf-b943-8bc468a6d21c.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 5,
+      "title": "Star war",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/star-wars-the-rise-of-skywalker-theatrical-poster-1000_ebc74357.jpeg?region=0%2C0%2C891%2C1372",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 6,
+      "title": "Pitch Perfect 3",
+      "genre": "Animation, Action, Adventure",
+      "director": "Trish Sie",
+      "stars": "Anna Kendrick, Rebel Wilson, Brittany Snow, Anna Camp",
+      "plot": "Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+      "image": "https://images.moviesanywhere.com/583c12630cddc96f5984f0be6d3272ce/9f51fe1e-4e81-478c-a2ff-5f4044565f03.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 7,
+      "title": "Opération casse-noisette 2",
+      "genre": "Animation, Action, Adventure",
+      "director": "Cal Brunker",
+      "stars": "Will Arnett, Maya Rudolph, Bobby Cannavale, Bobby Moynihan",
+      "plot": "Following the events of the first film, Surly and his friends must stop Oakton City's mayor from destroying their home to make way for a dysfunctional amusement park.",
+      "image": "https://fr.web.img5.acsta.net/pictures/17/09/25/17/30/5245862.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "movieId": 4,
+      "price": 200,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 1
+    },
+    {
+      "movieId": 2,
+      "price": 300,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 2
+    },
+    {
+      "movieId": 5,
+      "price": 300,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 3
+    },
+    {
+      "movieId": 1,
+      "price": 200,
+      "currency": "THB",
+      "userId": 1691008223651,
+      "id": "1691008230897"
+    },
+    {
+      "movieId": 5,
+      "price": 900,
+      "currency": "THB",
+      "userId": 1691008223651,
+      "id": "1691008258280"
+    },
+    {
+      "movieId": 4,
+      "price": 300,
+      "currency": "THB",
+      "userId": "1691009353439",
+      "id": 1691009358779
+    },
+    {
+      "movieId": 1,
+      "price": 900,
+      "currency": "THB",
+      "userId": "1691009353439",
+      "id": 1691009364909
+    },
+    {
+      "movieId": 4,
+      "price": 900,
+      "currency": "THB",
+      "userId": "1691009568409",
+      "id": 1691009571208
+    },
+    {
+      "movieId": 2,
+      "price": 500,
+      "currency": "THB",
+      "userId": "1691050915716",
+      "id": 1691050921444
+    },
+    {
+      "movieId": 3,
+      "price": 500,
+      "currency": "THB",
+      "userId": "1691053116673",
+      "id": 1691053121459
+    },
+    {
+      "movieId": 4,
+      "price": 500,
+      "currency": "THB",
+      "userId": "1691053383540",
+      "id": 1691053389919
+    },
+    {
+      "movieId": 1,
+      "price": 900,
+      "currency": "THB",
+      "userId": "1691063583040",
+      "id": 1691063586375
+    },
+    {
+      "movieId": 2,
+      "price": 200,
+      "currency": "THB",
+      "userId": "1691063609310",
+      "id": 1691063611676
+    },
+    {
+      "movieId": 1,
+      "price": 500,
+      "currency": "THB",
+      "userId": "1691063622400",
+      "id": 1691063625548
+    },
+    {
+      "movieId": 1,
+      "price": 200,
+      "currency": "THB",
+      "userId": "1691070116740",
+      "id": 1691070132937
+    },
+    {
+      "movieId": 1,
+      "price": 200,
+      "currency": "THB",
+      "userId": "1691070151140",
+      "id": 1691070156095
+    },
+    {
+      "movieId": 2,
+      "price": 300,
+      "currency": "THB",
+      "userId": "1691070151140",
+      "id": 1691070215686
+    },
+    {
+      "movieId": 2,
+      "price": 900,
+      "currency": "THB",
+      "userId": "1691070316605",
+      "id": 1691070319752
+    },
+    {
+      "movieId": 3,
+      "price": 600,
+      "currency": "THB",
+      "userId": "1691070359665",
+      "id": 1691070363370
+    }
+  ]
+}

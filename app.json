@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "MovieApp",
-    "slug": "MovieApp"
+    "slug": "MovieApp",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
